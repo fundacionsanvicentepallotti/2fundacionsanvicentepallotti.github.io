@@ -116,14 +116,14 @@ dd {
 }
 
 .btn-primary {
-  background: #FF0043;
+  background: #0A5896;
   color: #fff;
-  border-color: #FF0043;
+  border-color: #0A5896;
 }
 .btn-primary:active, .btn-primary:hover, .btn-primary:focus, .btn-primary.focus, .btn-primary.active {
   color: #fff;
-  background: #cc0036 !important;
-  border-color: #cc0036 !important;
+  background: #0E4A7A !important;
+  border-color: #0E4A7A !important;
 }
 
 .btn-outline-primary {
@@ -280,11 +280,11 @@ a:hover {
 }
 
 .bg-primary {
-  background: #FF0043 !important;
+  background: #0A5896 !important;
 }
 
 .text-primary {
-  color: #FF0043 !important;
+  color: #0A5896 !important;
 }
 
 .text-light {
@@ -601,7 +601,7 @@ textarea {
   padding: 35px;
 }
 .card-icon {
-  background: #FF0043;
+  background: #417DC7;
   color: #fff;
   height: 55px;
   width: 60px;
@@ -635,7 +635,7 @@ textarea {
   line-height: 42px;
   text-align: center;
   color: #fff;
-  background: #FF0043;
+  background: #417DC7;
   border-radius: 6px;
 }
 
